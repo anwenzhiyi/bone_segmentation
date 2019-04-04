@@ -17,7 +17,7 @@ from sklearn import linear_model
 from array import *
 
 
-str1='/home/lucas/Lab/Project1/标注数据/top2bottom'
+str1='/home/lucas/Lab/Project1/data/top2bottom'
 files = os.listdir(str1)
 for file in files:
     print(file)
@@ -66,4 +66,4 @@ for file in files:
 
     print(image.max(),image.min())
 
-    io.imsave('/home/lucas/Lab/Project1/标注数据/top2bottom/' + file[0:-4]+'_.jpg',image)
+    io.imsave('/home/lucas/Lab/Project1/data/top2bottom/' + file[0:-4]+'_.jpg',image)
