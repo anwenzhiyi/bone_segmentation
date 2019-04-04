@@ -1,2 +1,6 @@
-# bit_lab
-segmentation for bone.
+# bit_lab   Segmentation for bone.
+
+### 1. train FNet model
+```
+python FNet.py
+```
