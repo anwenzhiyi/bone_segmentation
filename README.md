@@ -4,3 +4,8 @@
 ```
 python FNet.py
 ```
+
+### 2. Calculate alpha angle.
+```
+python 
+```
