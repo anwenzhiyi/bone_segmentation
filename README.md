@@ -1,2 +1,2 @@
 # bit_lab
-project in my lab
+segmentation for bone.
