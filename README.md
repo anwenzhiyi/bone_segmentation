@@ -5,7 +5,7 @@
 python FNet.py
 ```
 
-### 2. Calculate alpha angle.
+### 2. Calculate alpha angle using traditional image-process methods.
 ```
-python 
+python angle_calculation.py
 ```
